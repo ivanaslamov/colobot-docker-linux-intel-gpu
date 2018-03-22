@@ -1,0 +1,32 @@
+[INFO]: Colobot: Gold Edition 0.1.11-alpha starting
+[INFO]: Creating CApplication
+[INFO]: Data path: /usr/local/share/games/colobot
+[INFO]: Save path: /home/game/.local/share/colobot
+[INFO]: Opening audio device...
+[INFO]: Done.
+[INFO]: CApplication created successfully
+[INFO]: Error on parsing config file: No such node (Experimental.OpenGLVersion)
+[INFO]: Error on parsing config file: No such node (Experimental.OpenGLProfile)
+[INFO]: Error on parsing config file: No such node (Experimental.MSAA)
+[INFO]: Error on parsing config file: No such node (Experimental.VSync)
+[INFO]: No joysticks detected
+[INFO]: Error on parsing config file: No such node (Experimental.GraphicsDevice)
+[INFO]: Creating CDevice - OpenGL 1.4
+[INFO]: OpenGL 3.0 Mesa 17.2.8
+[INFO]: Mesa DRI Intel(R) Haswell Mobile 
+[INFO]: Shadow mapping available (core)
+[INFO]: Anisotropic filtering available
+[INFO]: Maximum anisotropy: 16
+[INFO]: Multisampling supported, max samples: 8
+[INFO]: Auto-detecting VBO support
+[INFO]: Core VBO supported
+[INFO]: Maximum texture units: 8
+[INFO]: Maximum texture size: 16384
+[INFO]: Framebuffer supported (ARB)
+[INFO]: Maximum renderbuffer size: 16384
+[INFO]: CDevice created successfully
+[INFO]: Closing joystick
+[WARN]: Enviromnent locale ('C') is not supported, setting default language
+[INFO]: Created shadow map texture: 1024x1024, depth 32
+[INFO]: Exiting with code 0
+[INFO]: Unloading files and closing device...
